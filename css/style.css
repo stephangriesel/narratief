@@ -1,0 +1,112 @@
+/* Page Structure */
+
+body {
+	font-family: 'Lato', sans-serif;
+	background-color: #922125;
+}
+
+.full-width {
+	width:800px;
+	display:block;
+	margin:auto;
+	text-align:center;
+}
+
+.half-width {
+	color: #E4BB96;
+	display:block;
+	float:left;
+	font-family: 'Lato', sans-serif;
+	margin:0;
+	padding:20px;
+	width:360px;
+	text-align:left;
+}
+
+.social {
+	margin:0;
+}
+
+/* Contents */
+
+	a:link, a:visited, a:hover, a:active {
+		color: #E4BB96;
+		text-decoration:none;
+}
+
+
+/* body {
+	background-color:#8E2328; */
+}
+
+img {
+	display:block;
+	margin:auto;
+}
+
+h1 {
+	color: #E4BB96;
+	font-family: 'Lato', sans-serif;
+	margin:0;
+	text-align: left;
+	text-transform: uppercase;
+}
+
+
+p {
+	color: #E4BB96;
+	text-decoration:none;
+	font-family: 'Lato', sans-serif;
+} 
+
+.half-width img {
+	float:right;
+}
+
+.half-width ul li {
+	color: #E4BB96;
+	font-family: 'Lato', sans-serif;
+}
+
+ul {
+	color:#E4BB96;
+	display:block;
+	list-style-type:none;
+	margin:40px;
+	overflow:hidden;
+	text-align:center;
+}
+
+li {
+	display: inline;
+	padding:0 30px 10px 0;
+}
+
+/* PODCAST CSS */
+
+.feedTitle {
+	font-size: 3em;
+}
+
+.headline {
+	font-size: 1em;
+	font-weight: 900;
+}
+
+.date {
+	font-size: 0.7em;
+}
+
+.enclosure {
+	text-transform: uppercase;
+	font-weight: 900;
+	border: 3px solid;
+}
+
+#creditfooter {
+	display:none;
+}
+
+.fbsubscribelink {
+	font-size: 1em;
+}
