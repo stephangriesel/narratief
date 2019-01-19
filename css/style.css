@@ -91,24 +91,25 @@ li {
 }
 
 .enclosure {
+	font-size:20px;
 	text-transform: uppercase;
 	font-weight: 900;
 	border: 3px solid #F765AF;
-	width:200px;
 	text-align: center;
-	padding:5px;
+	padding:10px;
 	margin:15px auto;
+	width:300px;
 }
 
 .enclosure:hover {
+	font-size:20px;
 	text-transform: uppercase;
 	font-weight: 900;
 	border: 3px solid #4DD9E4;
-	transition-delay: 2ms;
-	width:200px;
 	text-align: center;
-	padding:5px;
+	padding:10px;
 	margin:15px auto;
+	width:300px;
 }
 
 #creditfooter {
