@@ -100,6 +100,17 @@ li {
 	margin:15px auto;
 }
 
+.enclosure:hover {
+	text-transform: uppercase;
+	font-weight: 900;
+	border: 3px solid #4DD9E4;
+	transition-delay: 2ms;
+	width:200px;
+	text-align: center;
+	padding:5px;
+	margin:15px auto;
+}
+
 #creditfooter {
 	display:none;
 }
